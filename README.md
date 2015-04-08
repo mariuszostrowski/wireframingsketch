@@ -1,2 +1,2 @@
 # wireframingsketch
-Sketch symbols for wireframing
+Set of simple Sketch symbols for wireframing.
