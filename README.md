@@ -1,4 +1,4 @@
-# wireframingsketch
+# Wireframing for Sketch
 Set of simple Sketch symbols for wireframing.
 
 - to change color please use Color Adjust on symbol
